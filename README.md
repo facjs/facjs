@@ -12,7 +12,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and constantly learning.
 
-- 🌱 &nbsp; Learning about HTML, CSS, Javascript, React.
+- 🌱 &nbsp; Learning about HTML, CSS, JavaScript, React.
 
 - ✍️ &nbsp; Highly motivated and eager to grow in this world.
 
