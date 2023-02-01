@@ -6,7 +6,7 @@
 
 
 
-- 🎓 &nbsp; Self-taught student currently following TOP (The Odin Project) curriculum.
+- 🎓 &nbsp; Self-taught student currently following TOP [The Odin Project] curriculum.
 
 - 🤖 &nbsp; GNU/Linux user and enthusiast [ArchLinux].
 
