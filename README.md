@@ -8,6 +8,8 @@
 
 - 🎓 &nbsp; Self-taught student currently following TOP (The Odin Project) curriculum.
 
+- 🤖 &nbsp; GNU/Linux user [ArchLinux].
+
 - 🤔 &nbsp; Exploring new technologies and constantly learning.
 
 - 🌱 &nbsp; Learning about HTML, CSS, Javascript, React.
