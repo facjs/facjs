@@ -15,7 +15,7 @@
 - ✍️ &nbsp; Highly motivated and eager to grow in this world.
 
 
-<h3> 🛠 Tech Stack</h3>
+<h3> 💻 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | SASS | Git 
 
