@@ -12,25 +12,24 @@
 
 - 🌱 &nbsp; Learning about HTML, CSS, Javascript, React.
 
-- ✍️ &nbsp; Pursuing Web Development and my goals in life.
+- ✍️ &nbsp; Highly motivated and eager to grow in this world.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | SASS
+- 🌐 &nbsp; HTML | CSS | JavaScript | SASS | Git 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  React | NodeJS | Firebase | flask
-
+- 🔧 &nbsp;  React | NodeJS | Express | MongoDB
 <hr>
 
 <br/><br/>
 
 
 <h3 align='center'> 🤝🏻 Connect </h3>
-<p align='center'>I will love to have an opportunity to keep growing and learning among professionals to achieve the goals in my life.<p>
+<p align='center'>I will love to have an opportunity to keep growing and learning among professionals to achieve my goals in life.<p>
 
 <br>
 
