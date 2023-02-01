@@ -29,9 +29,6 @@
 
 <hr>
 
-<br/><br/>
-
-
 <h3 align='center'> 🤝🏻 Connect </h3>
 <p align='center'>I will love to have an opportunity to keep growing and learning among professionals to achieve my goals in life.<p>
 
