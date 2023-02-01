@@ -6,7 +6,7 @@
 
 
 
-- 🎓 &nbsp; Self-taught student currently following TOP (The Odin Project).
+- 🎓 &nbsp; Self-taught student currently following TOP (The Odin Project) curriculum.
 
 - 🤔 &nbsp; Exploring new technologies and constantly learning.
 
