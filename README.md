@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Self-taught student currently following TOP [The Odin Project] curriculum.
 
-- 🤖 &nbsp; GNU/Linux user and enthusiast [ArchLinux].
+- 🤖 &nbsp; GNU/Linux user and enthusiast.
 
 - 🤔 &nbsp; Exploring new technologies and constantly learning.
 
