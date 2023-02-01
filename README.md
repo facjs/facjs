@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻 About Me </h3>
 
 
 
@@ -15,14 +15,16 @@
 - ✍️ &nbsp; Highly motivated and eager to grow in this world.
 
 
-<h3>🛠 Tech Stack</h3>
+<h3> 🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | SASS | Git 
 
 
-<h3>🛠 To Learn</h3>
+<h3> 🛠 To Learn</h3>
 
 - 🔧 &nbsp;  React | NodeJS | Express | MongoDB
+
+
 <hr>
 
 <br/><br/>
