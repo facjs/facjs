@@ -35,7 +35,7 @@
 <br>
 
 <p align='center'><a href="https://www.linkedin.com/in/facjs/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Facundo%20Olivera-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/encoreunterrien"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-encoreunterrien-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.twitter.com/facjsx"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-facjsx-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:fcjsx@pm.me"><img alt="Email" src="https://img.shields.io/badge/Email-fcjsx@pm.me-blue?style=flat-square&logo=protonmail"></a></p>
 
 
