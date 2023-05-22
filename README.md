@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Self-taught student currently following TOP [The Odin Project] curriculum.
 
-- 🤖 &nbsp; GNU/Linux user and enthusiast.
+- 🤖 &nbsp; GNU/Linux user and enthusiast [https://www.deviantart.com/kezzly/]
 
 - 🤔 &nbsp; Exploring new technologies and constantly learning.
 
