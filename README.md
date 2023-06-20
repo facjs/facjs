@@ -1,4 +1,4 @@
-### <h1 align='center'>Hey! 👋</h1><h2 align='center'> My name is Facundo</h2>
+### <h1 align='center'>Hey! 👋</h1><h2 align='center'> Facundo Olivera </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
